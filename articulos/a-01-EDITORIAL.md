@@ -11,3 +11,5 @@ La atención centrada en la persona, encuadre actual, se deja ver a trasluz de l
 A pesar de las dificultades que atravesamos como equipo de salud, la generosidad, vocación de ayuda, ética, humanismo, entusiasmo, creatividad, cuidados, en pos del cierre de las heridas debe brotar de nuestras manos y como bien dice el Dr. Gregorio Marañón, médico endocrinólogo español, «tienen la conciencia cierta de que hasta donde no llega el saber, llega siempre el amor».
 
 Bienvenidos a una sabia y amorosa edición de la *Revista Cicatriz-AR*.
+
+
