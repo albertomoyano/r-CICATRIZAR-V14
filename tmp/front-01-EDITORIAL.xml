@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns:xlink="http://www.w3.org/1999/xlink">
+  <journal-meta>
+    <journal-id journal-id-type="publisher-id">2618-3536</journal-id>
+    <journal-title-group>
+      <journal-title>Cicatriz-AR</journal-title>
+    </journal-title-group>
+    <issn pub-type="ppub">2468-9580</issn>
+    <issn pub-type="epub">2618-3536</issn>
+    <publisher>
+      <publisher-name>AIACH</publisher-name>
+      <publisher-loc>Buenos Aires, Argentina</publisher-loc>
+    </publisher>
+  </journal-meta>
+  <article-meta>
+    <article-categories>
+      <subj-group subj-group-type="heading">
+        <subject>editorial</subject>
+      </subj-group>
+    </article-categories>
+    <title-group>
+      <article-title>Editorial</article-title>
+      <trans-title-group xml:lang="en">
+        <trans-title>Editor&apos;s note</trans-title>
+      </trans-title-group>
+    </title-group>
+    <contrib-group>
+      <contrib contrib-type="author" id="a22">
+        <name>
+          <surname>Witman</surname>
+          <given-names>Érica Lorena</given-names>
+        </name>
+        <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7765-2088</contrib-id>
+      </contrib>
+    </contrib-group>
+    <pub-date pub-type="epub-ppub">
+      <month>01</month>
+      <year>2026</year>
+    </pub-date>
+    <volume>14</volume>
+    <issue>1</issue>
+    <fpage>1</fpage>
+    <lpage>1</lpage>
+    <permissions>
+      <copyright-year>2026</copyright-year>
+      <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <license-p>CC BY-NC-SA 4.0</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>xml-lang</meta-name>
+        <meta-value>es</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </article-meta>
+</front>
